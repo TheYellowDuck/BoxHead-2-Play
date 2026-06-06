@@ -2,6 +2,8 @@
 
 A top-down endless survival shooter built in Java with the Processing framework, inspired by the classic Flash game *BoxHead 2 Play* and modernised with *Survivor.io*-style mechanics.
 
+<video src="demo.mp4" controls width="100%"></video>
+
 ## Play
 
 Download `BoxHead2Play.jar` from the [latest release](../../releases/latest) and run:
